@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react-swc'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: 'https://argabriel_200.github.io/temporal/',
+  base: 'https://a-gabrierodriguez.github.io/temporal/',
 })
