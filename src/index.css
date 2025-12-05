@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body {
+    background: #DFDCD7;
+}
+
+/*@theme{
+     //Colors 
+    navbar-hover: #BA965B;
+}*/
